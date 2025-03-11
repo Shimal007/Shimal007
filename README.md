@@ -69,7 +69,7 @@
     <img src="./gmail.png" width="50" height="50" alt="shimalakmal12@gmail.com" />
   </a>
   <a href="https://www.instagram.com/shimal_007/" target="_blank">
-    <img src="./instagram (1).png" width="50" height="50" alt="Shimal007" />
+    <img src="./instagram.png" width="50" height="50" alt="Shimal007" />
   </a>
   <a href="https://www.linkedin.com/in/shimal-akmal-a7b0ba291/" target="_blank">
     <img src="./linkedin.png" width="50" height="50" alt="LinkedIn Profile" />
