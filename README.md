@@ -6,7 +6,7 @@
 
 <h1 align="center">Hi 👋, I'm SHIMAL AKMAL D </h1>
 <h3 align="center">A passionate Fullstack developer and AI developer</h3>
-- 🌱 I’m currently learning **React-Native and Flutter **
+- 🌱 I’m currently learning **React-Native and Fluttert**
 
 - 💬 Ask me about **REACT JS, NODE JS, MONGODB**
 
@@ -17,7 +17,7 @@
 - 📄 Know about my Resume [Resume Link](https:#.pdf)
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=jeyachandranj&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="jeyachandranj" style="padding-right:20px;" />
+  <img src="https://komarev.com/ghpvc/?username=Shimal007&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="jeyachandranj" style="padding-right:20px;" />
 </p>
 
 ---
