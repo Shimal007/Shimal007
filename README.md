@@ -92,9 +92,10 @@
 
 <!--Contribution Graph-->
 <h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
-<div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sanjayraj-k&bg_color=220a28&&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" border-radius="15">
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shimal007&bg_color=000000&color=ffffff&line=42d78a&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph">
+</p>
+
 
 
 
