@@ -56,7 +56,8 @@
 <br />
 <br />
 
-
+<h2 align="center"> Leetcode Stats </h2>
+![LeetCode Stats](https://leetcard.jacoblin.cool/shimal07?theme=dark&font=Marcellus&ext=heatmap)
 
 
 
