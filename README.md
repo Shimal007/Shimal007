@@ -87,14 +87,6 @@
       </p>
     </td>
   </tr>
-  <tr>
-    <td width="50%">
-  <h3 align="center"><strong>Linkedin Sᴛᴀᴛs</strong></h3>
-  <p align="center">
-    <a href="https://www.linkedin.com/in/sanjayraj-k/">
-      <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Profile" />
-    </a>
-  </p>
 </table>
 <br />
 
