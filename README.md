@@ -105,21 +105,24 @@
 <!--Contact Section--> 
 
 <h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝</h2>
-<div align="center" style="display: flex; justify-content: center; gap: 25px; flex-wrap: wrap;">
+<p align="center">
   <a href="mailto:shimalakmal12@gmail.com" target="_blank">
-    <img src="./gmail.png" width="50" height="50" alt="shimalakmal12@gmail.com" />
-  </a>
-  <a href="https://www.instagram.com/shimal_007/" target="_blank">
-    <img src="./instagram.png" width="50" height="50" alt="Shimal007" />
-  </a>
-  <a href="https://www.linkedin.com/in/shimal-akmal-a7b0ba291/" target="_blank">
-    <img src="./linkedin.png" width="50" height="50" alt="LinkedIn Profile" />
-  </a>
-  <a href="https://leetcode.com/u/shimal07/" target="_blank">
-    <img src="./leetcode.png" width="50" height="50" alt="shimal07" />
+    <img src="./gmail.png" width="50" height="50" alt="Gmail" style="margin: 10px;" />
   </a>
   
+  <a href="https://www.instagram.com/shimal_007/" target="_blank">
+    <img src="./instagram.png" width="50" height="50" alt="Instagram" style="margin: 10px;" />
   </a>
+  
+  <a href="https://www.linkedin.com/in/shimal-akmal-a7b0ba291/" target="_blank">
+    <img src="./linkedin.png" width="50" height="50" alt="LinkedIn" style="margin: 10px;" />
+  </a>
+  
+  <a href="https://leetcode.com/u/shimal07/" target="_blank">
+    <img src="./leetcode.png" width="50" height="50" alt="LeetCode" style="margin: 10px;" />
+  </a>
+</p>
+
 </div>
 
 
