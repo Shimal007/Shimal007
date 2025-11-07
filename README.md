@@ -92,7 +92,7 @@
 <h2 align="center">GitHub Trophies🏆</h2>
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Shimal007&theme=radical&no-bg=true&no-frame=true" alt="GitHub Profile Trophies" />
+    <img src="[![trophy](https://github-profile-trophy.vercel.app/?username=Shimal007)](https://github.com/ryo-ma/github-profile-trophy)" alt="GitHub Profile Trophies" />
   </a>
 </p>
 <!--Contribution Graph-->
