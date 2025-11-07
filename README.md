@@ -1,4 +1,4 @@
-![Sanjay  Banner Image](./Banner.png)
+![Shimal  Banner Image](./Banner.png)
 <div>
   <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
 </div>
@@ -58,7 +58,7 @@
 
 <h2 align="center"> Leetcode Stats </h2>
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/Shimal07?theme=dark&font=source_code_pro&ext=heatmap" alt="LeetCode Stats">
+  <img src="https://leetcard.jacoblin.cool/Shimal007?theme=dark&font=source_code_pro&ext=heatmap" alt="LeetCode Stats">
 </p>
 
 
@@ -81,7 +81,7 @@
     <td width="50%">
       <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
       <p align="center">
-  <a href="https://github.com/Sanjayraj-k">
+  <a href="https://github.com/Shimal007">
     <img align="center" src="https://streak-stats.demolab.com?user=Shimal007&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats" />
   </a>
 </p>
