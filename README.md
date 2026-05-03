@@ -5,9 +5,9 @@
 
 <h1 align="center">Hi 👋, I'm SHIMAL AKMAL D </h1>
 <h3 align="center">A passionate Fullstack developer and AI developer</h3>
-- 🌱 I’m currently learning **Agentic Ai**
+- 🌱 I’m currently learning **Agentic AI**
 
-- 💬 Ask me about **REACT JS, NODE JS, MONGODB**
+- 💬 Ask me about **Flask, Node.js, LLMs, Agentic AI**
 
 - 📫 How to reach me **Shimalakmal12@gmail.com**
 
