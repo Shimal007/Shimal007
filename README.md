@@ -113,40 +113,30 @@
 
 ---
 
-### 🏆 Honors & Certifications
+<h2 align="center">🏆 ACHIEVEMENTS 🏆</h2>
 
-#### 🥇 Awards & Hackathons
+| 🏁 Event | 🏅 Achievement | 🚀 Highlights | 📅 Year |
+| :--- | :--- | :--- | :--- |
+| 💻 **CSI 24 Hour Hackathon** – Kongu Engineering College | 🥇 1st Prize | Cyber Security In Email | 2026 |
+| 📢 **Eareyes 2k26** – Kongu Engineering College | 🥇 1st Prize | paper presentation and project presentation | 2026 |
+| 📄 **GEG** – Kongu Engineering College | 🥇 1st Prize | paper presentation | 2026 |
+| 🤖 **SRCAS Hackathon 2.0** – Sri Ramakrishna College of Arts and Science | 🥇 1st Prize | LLM for Cyber Issue SOPs | 2025 |
+| 👤 **Newells2K25** – Kongu Engineering College | 🥇 1st Prize | AI Mock Interviewer | 2025 |
+| 🧠 **GEN AI Cognitive Hackathon** – Kongu Engineering College | 🥇 1st Prize | StudyMate - AI Study Assistant | 2025 |
+| 💡 **CSI Project Expo** – Kongu Engineering College | 🥇 1st Prize | Museum Ticket Chatbot | 2025 |
+| ⚙️ **CSD 24 Hour Hackathon** – Kongu Engineering College | 🥇 1st Prize | AI Quiz Generator | 2025 |
+| 👁️ **Exodica Hackathon** – Kongu Engineering College | 🥇 1st Prize | Face Album Matching | 2025 |
+| 🏆 **Hackvotrix'25 Hackathon** | 🥇 1st Prize | Hackathon | 2025 |
+| 🔓 **Cybot Fusion'26 (Hackathon)** – Kongu Engineering College | 🥈 2nd Prize | Real Time Phishing Detection | 2026 |
+| 🏆 **HCS Coding Challenge (Coding Competition)** – Kongu Engineering College | 🥈 2nd Prize | Coding Competition | 2026 |
+| 🧩 **KGISL Coding Contest** – KGISL Institute | 🥈 2nd Prize | Complex DSA Problem Solving | 2024 |
+| 💻 **Hacknovate'25 Hackathon** | 🥈 2nd Prize | Hackathon | 2025 |
+| 🤖 **IBM-GenAi Hackathon** | 🥈 2nd Prize | GenAI Hackathon | 2025 |
+| ⚡ **IEEE Version -3.0** – Kongu Engineering College | 🥉 3rd Prize | NETGEN AUTOMATED INTERVIEW HUB | 2025 |
 
-<table width="100%">
-  <tr>
-    <td width="100%" valign="top">
-      <blockquote>
-        <b>🥇 1st Prize Winners</b><br>
-        • <b>CSI 24 Hour Hackathon</b> | <i>Kongu Engg College, 2026</i><br>
-        • <b>Eareyes 2k26</b> | <i>Kongu Engg College, 2026</i><br>
-        • <b>GEG Presentation</b> | <i>Kongu Engg College, 2026</i><br>
-        • <b>SRCAS Hackathon 2.0</b> | <i>Sri Ramakrishna College, 2025</i><br>
-        • <b>Newells2K25</b> | <i>Kongu Engg College, 2025</i><br>
-        • <b>GEN AI Cognitive Hackathon</b> | <i>Kongu Engg College, 2025</i><br>
-        • <b>CSI Project Expo</b> | <i>Kongu Engg College, 2025</i><br>
-        • <b>CSD 24 Hour Hackathon</b> | <i>Kongu Engg College, 2025</i><br>
-        • <b>Exodica Hackathon</b> | <i>Kongu Engg College, 2025</i><br>
-        • <b>Hackvotrix'25 Hackathon</b>
-      </blockquote>
-      <blockquote>
-        <b>🥈 2nd Prize Winners</b><br>
-        • <b>Cybot Fusion'26</b> | <i>Kongu Engg College, 2026</i><br>
-        • <b>HCS Coding Challenge</b> | <i>Kongu Engg College, 2026</i><br>
-        • <b>Hacknovate'25 Hackathon</b><br>
-        • <b>IBM-GenAi Hackathon</b>
-      </blockquote>
-      <blockquote>
-        <b>🥉 3rd Prize Winners</b><br>
-        • <b>IEEE Version 3.0</b> | <i>Kongu Engg College, 2025</i>
-      </blockquote>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  🏆 <b>Hackathons:</b> 8 Wins (6x 🥇, 2x 🥈) &nbsp;|&nbsp; 📢 <b>Paper & Project Expos:</b> 4 Wins (4x 🥇) &nbsp;|&nbsp; 💻 <b>Coding Competitions:</b> 3 Wins (3x 🥈) &nbsp;|&nbsp; ⚡ <b>Technical Symposiums:</b> 1 Win (1x 🥉)
+</p>
 
 #### 📜 Certifications & Memberships
 <p align="left">
