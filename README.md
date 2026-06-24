@@ -168,9 +168,6 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=shimal007&bg_color=000000&color=ffffff&line=42d78a&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph">
 
 <br><br>
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=Shimal007&theme=onedark&no-bg=true&no-frame=true" alt="GitHub Profile Trophies" />
-</a>
 
 </div>
 
