@@ -1,30 +1,112 @@
 ![Shimal  Banner Image](./Banner.png)
 <div>
   <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
-</div>
 
 <h1 align="center">Hi 👋, I'm SHIMAL AKMAL D </h1>
-<h3 align="center">A passionate Fullstack developer and AI developer</h3>
-- 🌱 I’m currently learning Agentic AI
+<h3 align="center">A passionate Fullstack Developer and AI Engineer</h3>
 
-- 💬 Ask me about **Flask, Node.js, LLMs, Agentic AI**
+- 🌱 I’m currently learning **Agentic AI & Advanced RAG Systems**
+
+- 💬 Ask me about **React, Flask, Node.js, LLMs, LangChain, Agentic AI**
 
 - 📫 How to reach me **Shimalakmal12@gmail.com**
 
-- Portfolio - https://shimalakmald.vercel.app/
+- 🌐 Portfolio - https://shimalakmald.vercel.app/
 
-- 🤖 Engineering At **Kongu Engineering College**
+- 🤖 AI & ML Engineering At **Kongu Engineering College** (CGPA: 8.2/10)
 
-- 📄 Know about my Resume [Resume Link](https://github.com/Shimal007/Shimal007/blob/main/23ALR099.pdf)
+- 📄 Know about my Resume: [View Resume](https://github.com/Shimal007/Shimal007/blob/main/23ALR099.pdf)
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Shimal007&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="jeyachandranj" style="padding-right:20px;" />
+  <img src="https://komarev.com/ghpvc/?username=Shimal007&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="Profile Views" style="padding-right:20px;" />
 </p>
 
 ---
 
+<h2 align="center">💼 E X P E R I E N C E</h2>
 
-<h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ</h2> 
+**Software Developer Intern (AI)** @ **PunchBix** *(May 2025 – July 2025)*
+- Engineered a full-stack AI platform for content generation using Gemini 1.5 Pro and Stable Diffusion.
+- Developed a Node.js backend for secure API management and credit tracking, integrated with a React.js frontend for live markdown editing.
+- **Tech Stack:** React.js, Node.js, Express, MongoDB, Gemini, Stable Diffusion
+
+---
+
+<h2 align="center">🚀 F E A T U R E D  P R O J E C T S</h2>
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3><b>🤖 Next-Gen Automated Interview Hub</b></h3>
+      <p>A proctored multi-round mock interview platform simulating real HR interviews.</p>
+      <ul>
+        <li>Integrated AI-based resume analysis, technical questioning, and coding challenges.</li>
+        <li>Features memory-driven interview interactions, instructor assignment, and full-screen monitoring.</li>
+      </ul>
+      <p><b>Tech Stack:</b> LangChain, LangGraph, Llama, React.js, Flask, MongoDB, Docker</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><b>📸 AI-Powered Face Recognition Platform</b></h3>
+      <p>A full-stack platform for face-based search, duplicate detection, and cloud-based photo retrieval.</p>
+      <ul>
+        <li>Matches a reference image against large photo collections and automatically retrieves identified images.</li>
+        <li>Integrates cloud storage and batch processing.</li>
+      </ul>
+      <p><b>Tech Stack:</b> React.js, Flask, MTCNN, FaceNet, OpenCV, Google Drive API, CLIP</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><b>🛡️ Intelligent Cybercrime Analysis System</b></h3>
+      <p>A Hybrid RAG-based cybercrime analysis system mapping incidents to IPC/IT laws.</p>
+      <ul>
+        <li>Uses Knowledge Graphs to report portals and gather required evidence.</li>
+        <li>Added predictive risk analysis and automated follow-ups to guide victims through post-incident actions.</li>
+      </ul>
+      <p><b>Tech Stack:</b> React.js, Node.js, LangGraph, Neo4j, Flask, LLMs</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><b>🎟️ Museum Ticket Booking Chatbot</b></h3>
+      <p>An AI-powered WhatsApp and web chatbot enabling end-to-end museum ticket booking.</p>
+      <ul>
+        <li>Built using LLMs and Retrieval-Augmented Generation (RAG).</li>
+        <li>Integrated secure payments, geolocation, session handling, and email confirmations.</li>
+      </ul>
+      <p><b>Tech Stack:</b> LangChain, Llama, Express.js, MySQL, Razorpay, WhatsApp API</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+<h2 align="center">🏆 A W A R D S  &  C E R T I F I C A T I O N S</h2>
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🥇 Hackathons & Competitions</h3>
+      <ul>
+        <li><b>1st Prize</b> - SRCAS Hackathon</li>
+        <li><b>1st Prize</b> - Hackvotrix'25 Hackathon</li>
+        <li><b>1st Prize</b> - Project Presentation Newells’25</li>
+        <li><b>1st Prize</b> - Project Presentation</li>
+        <li><b>2nd Prize</b> - Hacknovate'25 Hackathon</li>
+        <li><b>2nd Prize</b> - IBM-GenAi Hackathon</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📜 Certifications</h3>
+      <ul>
+        <li><b>MongoDB Certified Associate Developer</b></li>
+        <li><b>Oracle AI Foundation Associate 2025</b></li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+<h2 align="center">🛠️ T ᴇ ᴄ ʜ  S ᴛ ᴀ ᴄ ᴋ</h2> 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
   <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
@@ -38,20 +120,19 @@
   <li><span>UI Library :</span> <span> Bootstrap</span></li>
 </ul>
 
-<h3 align="left">Backend</h3>
+<h3 align="left">Backend & AI</h3>
 <ul>
   <li><span>Runtime   : </span> <span>Node.js</span></li>
-  <li><span>Framework : </span> <span>Express</span></li>
-  <li><span>Database  : </span> <span>MongoDB, SQL</span></li>
+  <li><span>Framework : </span> <span>Express, Flask, LangChain, TensorFlow</span></li>
+  <li><span>Database  : </span> <span>MongoDB, SQL, Vector DB</span></li>
 </ul>
 
 <h3 align="left">Tools</h3>
 <ul>
   <li><span>Version Control : </span> <span>GitHub</span></li>
-  <li><span>IDE             : </span> <span>VS Code</span></li>
+  <li><span>Platforms       : </span> <span>Vercel, Render, Postman</span></li>
 </ul>
 <br />
-
 
 ---
 
@@ -63,12 +144,8 @@
   <img src="https://leetcard.jacoblin.cool/Shimal07?theme=dark&font=source_code_pro&ext=heatmap" alt="LeetCode Stats">
 </p>
 
-
-
-
-
 <!--Github stats Table--> 
-<h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
+<h2 align="center">📊 G ɪ ᴛ ʜ ᴜ ʙ  S ᴛ ᴀ ᴛ ꜱ 📊</h2>
 
 <table width="100%">
   <tr>
@@ -98,20 +175,14 @@
   </a>
 </p>
 <!--Contribution Graph-->
-<h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
+<h2 align="center">📈 C ᴏ ɴ ᴛ ʀ ɪ ʙ ᴜ ᴛ ɪ ᴏ ɴ  G ʀ ᴀ ᴘ ʜ 📈</h2>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shimal007&bg_color=000000&color=ffffff&line=42d78a&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph">
 </p>
 
-
-
-
-
-
-
 <!--Contact Section--> 
 
-<h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝</h2>
+<h2 align="center">🤝 C ᴏ ɴ ɴ ᴇ ᴄ ᴛ  W ɪ ᴛ ʜ  M ᴇ 🤝</h2>
 <p align="center">
   <a href="mailto:shimalakmal12@gmail.com" target="_blank">
     <img src="./gmail.png" width="50" height="50" alt="Gmail" style="margin: 10px;" />
@@ -129,10 +200,6 @@
     <img src="./leetcode.png" width="50" height="50" alt="LeetCode" style="margin: 10px;" />
   </a>
 </p>
-
-</div>
-
-
 
 </div>
 <br/>
