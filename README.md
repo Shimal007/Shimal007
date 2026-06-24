@@ -1,10 +1,12 @@
 <div align="center">
   <img src="./Banner.png" width="100%" alt="Banner" />
   <br><br>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=Hi+There!+%F0%9F%91%8B;I'm+SHIMAL+AKMAL+D;Fullstack+Developer;AI+%26+ML+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=Hi+There!+%F0%9F%91%8B;I'm+SHIMAL+AKMAL+D;Fullstack+Developer;AI+%26+ML+Engineer;8x+Hackathon+Winner" alt="Typing SVG" />
 </div>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Shimal007&label=Profile%20views&color=c56a90&style=flat-square&logo=star" alt="Profile Views" />
+  <br><br>
   <a href="mailto:shimalakmal12@gmail.com"><img src="https://img.shields.io/badge/Email-shimalakmal12%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/shimal-akmal-a7b0ba291/"><img src="https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://shimalakmald.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Website-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
@@ -19,6 +21,7 @@
 <td width="60%">
 
 - 🤖 **Education:** B.Tech in AI & ML @ Kongu Engineering College (CGPA: 8.2/10)
+- 🏆 **Achievements:** 8x Hackathon Winner 🥇
 - 🌱 **Currently Learning:** Agentic AI, Advanced RAG Systems, Distributed Systems
 - 💡 **Interests:** Machine Learning, Full-Stack Web Development, System Design
 - 📄 **Resume:** [View my Resume](https://github.com/Shimal007/Shimal007/blob/main/23ALR099.pdf)
@@ -113,36 +116,47 @@
 ### 🏆 Honors & Certifications
 
 #### 🥇 Awards & Hackathons
-<details open>
-<summary><b>View All Achievements (2025 - 2026)</b></summary>
-<br>
-<ul>
-  <li>🥇 <b>1st Prize</b> — CSI 24 Hour Hackathon (Cyber Security In Email) | <i>Kongu Engineering College, 2026</i></li>
-  <li>🥇 <b>1st Prize</b> — Eareyes 2k26 (Paper & Project Presentation) | <i>Kongu Engineering College, 2026</i></li>
-  <li>🥇 <b>1st Prize</b> — GEG (Paper Presentation) | <i>Kongu Engineering College, 2026</i></li>
-  <li>🥇 <b>1st Prize</b> — SRCAS Hackathon 2.0 (LLM for Cyber Issue SOPs) | <i>Sri Ramakrishna College of Arts and Science, 2025</i></li>
-  <li>🥇 <b>1st Prize</b> — Newells2K25 (AI Mock Interviewer) | <i>Kongu Engineering College, 2025</i></li>
-  <li>🥇 <b>1st Prize</b> — GEN AI Cognitive Hackathon (StudyMate) | <i>Kongu Engineering College, 2025</i></li>
-  <li>🥇 <b>1st Prize</b> — CSI Project Expo (Museum Ticket Chatbot) | <i>Kongu Engineering College, 2025</i></li>
-  <li>🥇 <b>1st Prize</b> — CSD 24 Hour Hackathon (AI Quiz Generator) | <i>Kongu Engineering College, 2025</i></li>
-  <li>🥇 <b>1st Prize</b> — Exodica Hackathon (Face Album Matching) | <i>Kongu Engineering College, 2025</i></li>
-  <li>🥇 <b>1st Prize</b> — Hackvotrix'25 Hackathon</li>
-  <li>🥈 <b>2nd Prize</b> — Cybot Fusion'26 (Real Time Phishing Detection) | <i>Kongu Engineering College, 2026</i></li>
-  <li>🥈 <b>2nd Prize</b> — HCS Coding Challenge | <i>Kongu Engineering College, 2026</i></li>
-  <li>🥈 <b>2nd Prize</b> — Hacknovate'25 Hackathon</li>
-  <li>🥈 <b>2nd Prize</b> — IBM-GenAi Hackathon</li>
-  <li>🥉 <b>3rd Prize</b> — IEEE Version 3.0 (NetGen Automated Interview Hub) | <i>Kongu Engineering College, 2025</i></li>
-</ul>
-</details>
+
+<table width="100%">
+  <tr>
+    <td width="100%" valign="top">
+      <blockquote>
+        <b>🥇 1st Prize Winners</b><br>
+        • <b>CSI 24 Hour Hackathon</b> | <i>Kongu Engg College, 2026</i><br>
+        • <b>Eareyes 2k26</b> | <i>Kongu Engg College, 2026</i><br>
+        • <b>GEG Presentation</b> | <i>Kongu Engg College, 2026</i><br>
+        • <b>SRCAS Hackathon 2.0</b> | <i>Sri Ramakrishna College, 2025</i><br>
+        • <b>Newells2K25</b> | <i>Kongu Engg College, 2025</i><br>
+        • <b>GEN AI Cognitive Hackathon</b> | <i>Kongu Engg College, 2025</i><br>
+        • <b>CSI Project Expo</b> | <i>Kongu Engg College, 2025</i><br>
+        • <b>CSD 24 Hour Hackathon</b> | <i>Kongu Engg College, 2025</i><br>
+        • <b>Exodica Hackathon</b> | <i>Kongu Engg College, 2025</i><br>
+        • <b>Hackvotrix'25 Hackathon</b>
+      </blockquote>
+      <blockquote>
+        <b>🥈 2nd Prize Winners</b><br>
+        • <b>Cybot Fusion'26</b> | <i>Kongu Engg College, 2026</i><br>
+        • <b>HCS Coding Challenge</b> | <i>Kongu Engg College, 2026</i><br>
+        • <b>Hacknovate'25 Hackathon</b><br>
+        • <b>IBM-GenAi Hackathon</b>
+      </blockquote>
+      <blockquote>
+        <b>🥉 3rd Prize Winners</b><br>
+        • <b>IEEE Version 3.0</b> | <i>Kongu Engg College, 2025</i>
+      </blockquote>
+    </td>
+  </tr>
+</table>
 
 #### 📜 Certifications & Memberships
-<ul>
-  <li><b>MongoDB Certified Associate Developer</b></li>
-  <li><b>Oracle AI Foundation Associate 2025</b></li>
-  <li><b>Computer Society of India</b> — Executive Member (24-25)</li>
-  <li><b>Robotics Club</b> — Member (24-25)</li>
-  <li><b>Cloud Users Club</b> — Executive Member (25-26)</li>
-</ul>
+<p align="left">
+  <img src="https://img.shields.io/badge/Certification-MongoDB_Associate_Developer-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Certification-Oracle_AI_Foundation_2025-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+  <br><br>
+  <img src="https://img.shields.io/badge/Executive_Member-Computer_Society_of_India-005C84?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Member-Robotics_Club-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Executive_Member-Cloud_Users_Club-000000?style=for-the-badge" />
+</p>
 
 ---
 
@@ -172,9 +186,7 @@
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Shimal007&label=Profile%20views&color=c56a90&style=flat-square&logo=star" alt="Profile Views" />
-</p>
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
