@@ -1,208 +1,180 @@
-![Shimal  Banner Image](./Banner.png)
-<div>
-  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+<div align="center">
+  <img src="./Banner.png" width="100%" alt="Banner" />
+  <br><br>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=Hi+There!+%F0%9F%91%8B;I'm+SHIMAL+AKMAL+D;Fullstack+Developer;AI+%26+ML+Engineer" alt="Typing SVG" />
+</div>
 
-<h1 align="center">Hi 👋, I'm SHIMAL AKMAL D </h1>
-<h3 align="center">A passionate Fullstack Developer and AI Engineer</h3>
-
-- 🌱 I’m currently learning **Agentic AI & Advanced RAG Systems**
-
-- 💬 Ask me about **React, Flask, Node.js, LLMs, LangChain, Agentic AI**
-
-- 📫 How to reach me **Shimalakmal12@gmail.com**
-
-- 🌐 Portfolio - https://shimalakmald.vercel.app/
-
-- 🤖 AI & ML Engineering At **Kongu Engineering College** (CGPA: 8.2/10)
-
-- 📄 Know about my Resume: [View Resume](https://github.com/Shimal007/Shimal007/blob/main/23ALR099.pdf)
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Shimal007&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="Profile Views" style="padding-right:20px;" />
+<p align="center">
+  <a href="mailto:shimalakmal12@gmail.com"><img src="https://img.shields.io/badge/Email-shimalakmal12%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/shimal-akmal-a7b0ba291/"><img src="https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://shimalakmald.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Website-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/shimal07/"><img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
 </p>
 
 ---
 
-<h2 align="center">💼 E X P E R I E N C E</h2>
+### 👨‍💻 About Me
+<table>
+<tr>
+<td width="60%">
 
-**Software Developer Intern (AI)** @ **PunchBix** *(May 2025 – July 2025)*
-- Engineered a full-stack AI platform for content generation using Gemini 1.5 Pro and Stable Diffusion.
-- Developed a Node.js backend for secure API management and credit tracking, integrated with a React.js frontend for live markdown editing.
-- **Tech Stack:** React.js, Node.js, Express, MongoDB, Gemini, Stable Diffusion
+- 🤖 **Education:** B.Tech in AI & ML @ Kongu Engineering College (CGPA: 8.2/10)
+- 🌱 **Currently Learning:** Agentic AI, Advanced RAG Systems, Distributed Systems
+- 💡 **Interests:** Machine Learning, Full-Stack Web Development, System Design
+- 📄 **Resume:** [View my Resume](https://github.com/Shimal007/Shimal007/blob/main/23ALR099.pdf)
+- 💬 **Ask me about:** React, Node.js, Flask, LLMs, LangChain, Agentic AI
 
----
-
-<h2 align="center">🚀 F E A T U R E D  P R O J E C T S</h2>
-
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3><b>🤖 Next-Gen Automated Interview Hub</b></h3>
-      <p>A proctored multi-round mock interview platform simulating real HR interviews.</p>
-      <ul>
-        <li>Integrated AI-based resume analysis, technical questioning, and coding challenges.</li>
-        <li>Features memory-driven interview interactions, instructor assignment, and full-screen monitoring.</li>
-      </ul>
-      <p><b>Tech Stack:</b> LangChain, LangGraph, Llama, React.js, Flask, MongoDB, Docker</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><b>📸 AI-Powered Face Recognition Platform</b></h3>
-      <p>A full-stack platform for face-based search, duplicate detection, and cloud-based photo retrieval.</p>
-      <ul>
-        <li>Matches a reference image against large photo collections and automatically retrieves identified images.</li>
-        <li>Integrates cloud storage and batch processing.</li>
-      </ul>
-      <p><b>Tech Stack:</b> React.js, Flask, MTCNN, FaceNet, OpenCV, Google Drive API, CLIP</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><b>🛡️ Intelligent Cybercrime Analysis System</b></h3>
-      <p>A Hybrid RAG-based cybercrime analysis system mapping incidents to IPC/IT laws.</p>
-      <ul>
-        <li>Uses Knowledge Graphs to report portals and gather required evidence.</li>
-        <li>Added predictive risk analysis and automated follow-ups to guide victims through post-incident actions.</li>
-      </ul>
-      <p><b>Tech Stack:</b> React.js, Node.js, LangGraph, Neo4j, Flask, LLMs</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><b>🎟️ Museum Ticket Booking Chatbot</b></h3>
-      <p>An AI-powered WhatsApp and web chatbot enabling end-to-end museum ticket booking.</p>
-      <ul>
-        <li>Built using LLMs and Retrieval-Augmented Generation (RAG).</li>
-        <li>Integrated secure payments, geolocation, session handling, and email confirmations.</li>
-      </ul>
-      <p><b>Tech Stack:</b> LangChain, Llama, Express.js, MySQL, Razorpay, WhatsApp API</p>
-    </td>
-  </tr>
+</td>
+<td width="40%" align="center">
+  <img src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png" width="150" alt="Avatar"/>
+</td>
+</tr>
 </table>
 
 ---
 
-<h2 align="center">🏆 A W A R D S  &  C E R T I F I C A T I O N S</h2>
+### 💼 Professional Experience
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🥇 Hackathons & Competitions</h3>
-      <ul>
-        <li><b>1st Prize</b> - SRCAS Hackathon</li>
-        <li><b>1st Prize</b> - Hackvotrix'25 Hackathon</li>
-        <li><b>1st Prize</b> - Project Presentation Newells’25</li>
-        <li><b>1st Prize</b> - Project Presentation</li>
-        <li><b>2nd Prize</b> - Hacknovate'25 Hackathon</li>
-        <li><b>2nd Prize</b> - IBM-GenAi Hackathon</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📜 Certifications</h3>
-      <ul>
-        <li><b>MongoDB Certified Associate Developer</b></li>
-        <li><b>Oracle AI Foundation Associate 2025</b></li>
-      </ul>
-    </td>
-  </tr>
-</table>
+> **Software Developer Intern (AI)** @ *PunchBix* `May 2025 – July 2025`
+> - 🚀 **Engineered** a full-stack AI platform for content generation using **Gemini 1.5 Pro** and **Stable Diffusion**.
+> - ⚙️ **Developed** a robust Node.js backend for secure API management and credit tracking.
+> - 💻 **Integrated** with a React.js frontend for live markdown editing and seamless UX.
+> - *Tech Stack:* `React.js`, `Node.js`, `Express`, `MongoDB`, `Gemini`, `Stable Diffusion`
 
 ---
 
-<h2 align="center">🛠️ T ᴇ ᴄ ʜ  S ᴛ ᴀ ᴄ ᴋ</h2> 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
-  <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
-  <img align="left" alt="GIF description" src="./Skills_Animation_White.gif">
-</picture>
+### 🚀 Featured Projects
 
-<h3 align="left">Frontend</h3>
-<ul>
-  <li><span>Technology : </span> <span>HTML, CSS, JS</span></li>
-  <li><span>Framework  : </span> <span>React</span></li>
-  <li><span>UI Library :</span> <span> Bootstrap</span></li>
-</ul>
+| 🤖 **Next-Gen Automated Interview Hub** | 📸 **AI-Powered Face Recognition Platform** |
+| :--- | :--- |
+| **Description:** Proctored multi-round mock interview platform simulating real HR interactions.<br><ul><li>AI-based resume analysis & technical questioning</li><li>Memory-driven interactions</li><li>Full-screen monitoring & instructor assignment</li></ul> | **Description:** Full-stack platform for face-based search, duplicate detection, and cloud-based photo retrieval.<br><ul><li>Matches reference image against large datasets</li><li>Cloud storage & batch processing integration</li></ul> |
+| **Stack:** `<LangChain>` `<LangGraph>` `<Llama>` `<React>` `<Flask>` `<MongoDB>` `<Docker>` | **Stack:** `<React>` `<Flask>` `<MTCNN>` `<FaceNet>` `<OpenCV>` `<Google Drive API>` `<CLIP>` |
 
-<h3 align="left">Backend & AI</h3>
-<ul>
-  <li><span>Runtime   : </span> <span>Node.js</span></li>
-  <li><span>Framework : </span> <span>Express, Flask, LangChain, TensorFlow</span></li>
-  <li><span>Database  : </span> <span>MongoDB, SQL, Vector DB</span></li>
-</ul>
+<br>
 
-<h3 align="left">Tools</h3>
-<ul>
-  <li><span>Version Control : </span> <span>GitHub</span></li>
-  <li><span>Platforms       : </span> <span>Vercel, Render, Postman</span></li>
-</ul>
-<br />
+| 🛡️ **Intelligent Cybercrime Analysis System** | 🎟️ **Museum Ticket Booking Chatbot** |
+| :--- | :--- |
+| **Description:** Hybrid RAG-based cybercrime analysis system mapping incidents to IPC/IT laws.<br><ul><li>Knowledge Graphs to report portals & gather evidence</li><li>Predictive risk analysis & automated follow-ups</li></ul> | **Description:** AI-powered WhatsApp & web chatbot enabling end-to-end museum ticket booking.<br><ul><li>LLM and RAG integration for conversational booking</li><li>Secure payments, geolocation, session handling</li></ul> |
+| **Stack:** `<React>` `<Node.js>` `<LangGraph>` `<Neo4j>` `<Flask>` `<LLMs>` | **Stack:** `<LangChain>` `<Llama>` `<Express>` `<MySQL>` `<Razorpay>` `<WhatsApp API>` |
 
 ---
 
-<br />
-<br />
+### 🛠️ Tech Stack & Skills
 
-<h2 align="center"> Leetcode Stats </h2>
+<details open>
+<summary><b>Frontend Development</b></summary>
+<br>
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+</p>
+</details>
+
+<details open>
+<summary><b>Backend & Database</b></summary>
+<br>
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vector_DB-FF4F00?style=for-the-badge&logo=database&logoColor=white" />
+</p>
+</details>
+
+<details open>
+<summary><b>AI, ML & Tools</b></summary>
+<br>
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+</p>
+</details>
+
+<br>
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/Shimal07?theme=dark&font=source_code_pro&ext=heatmap" alt="LeetCode Stats">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
+    <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
+    <img alt="GIF description" src="./Skills_Animation_White.gif" width="600">
+  </picture>
 </p>
 
-<!--Github stats Table--> 
-<h2 align="center">📊 G ɪ ᴛ ʜ ᴜ ʙ  S ᴛ ᴀ ᴛ ꜱ 📊</h2>
+---
 
-<table width="100%">
-  <tr>
-    <td width="50%">
-      <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
-      <p align="center">
-        <a href="https://github.com/Shimal007">
-          <img align="center" src="https://github-readme-stats.vercel.app/api?username=Shimal007&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
-        </a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
-      <p align="center">
-  <a href="https://github.com/Shimal007">
-    <img align="center" src="https://streak-stats.demolab.com?user=Shimal007&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats" />
-  </a>
-</p>
-    </td>
-  </tr>
-</table>
-<br />
-<h2 align="center">GitHub Trophies🏆</h2>
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Shimal007&theme=onedark&no-bg=true&no-frame=true" alt="GitHub Profile Trophies" />
-  </a>
-</p>
-<!--Contribution Graph-->
-<h2 align="center">📈 C ᴏ ɴ ᴛ ʀ ɪ ʙ ᴜ ᴛ ɪ ᴏ ɴ  G ʀ ᴀ ᴘ ʜ 📈</h2>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shimal007&bg_color=000000&color=ffffff&line=42d78a&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph">
-</p>
+### 🏆 Honors & Certifications
 
-<!--Contact Section--> 
+#### 🥇 Awards & Hackathons
+<details open>
+<summary><b>View All Achievements (2025 - 2026)</b></summary>
+<br>
+<ul>
+  <li>🥇 <b>1st Prize</b> — CSI 24 Hour Hackathon (Cyber Security In Email) | <i>Kongu Engineering College, 2026</i></li>
+  <li>🥇 <b>1st Prize</b> — Eareyes 2k26 (Paper & Project Presentation) | <i>Kongu Engineering College, 2026</i></li>
+  <li>🥇 <b>1st Prize</b> — GEG (Paper Presentation) | <i>Kongu Engineering College, 2026</i></li>
+  <li>🥇 <b>1st Prize</b> — SRCAS Hackathon 2.0 (LLM for Cyber Issue SOPs) | <i>Sri Ramakrishna College of Arts and Science, 2025</i></li>
+  <li>🥇 <b>1st Prize</b> — Newells2K25 (AI Mock Interviewer) | <i>Kongu Engineering College, 2025</i></li>
+  <li>🥇 <b>1st Prize</b> — GEN AI Cognitive Hackathon (StudyMate) | <i>Kongu Engineering College, 2025</i></li>
+  <li>🥇 <b>1st Prize</b> — CSI Project Expo (Museum Ticket Chatbot) | <i>Kongu Engineering College, 2025</i></li>
+  <li>🥇 <b>1st Prize</b> — CSD 24 Hour Hackathon (AI Quiz Generator) | <i>Kongu Engineering College, 2025</i></li>
+  <li>🥇 <b>1st Prize</b> — Exodica Hackathon (Face Album Matching) | <i>Kongu Engineering College, 2025</i></li>
+  <li>🥇 <b>1st Prize</b> — Hackvotrix'25 Hackathon</li>
+  <li>🥈 <b>2nd Prize</b> — Cybot Fusion'26 (Real Time Phishing Detection) | <i>Kongu Engineering College, 2026</i></li>
+  <li>🥈 <b>2nd Prize</b> — HCS Coding Challenge | <i>Kongu Engineering College, 2026</i></li>
+  <li>🥈 <b>2nd Prize</b> — Hacknovate'25 Hackathon</li>
+  <li>🥈 <b>2nd Prize</b> — IBM-GenAi Hackathon</li>
+  <li>🥉 <b>3rd Prize</b> — IEEE Version 3.0 (NetGen Automated Interview Hub) | <i>Kongu Engineering College, 2025</i></li>
+</ul>
+</details>
 
-<h2 align="center">🤝 C ᴏ ɴ ɴ ᴇ ᴄ ᴛ  W ɪ ᴛ ʜ  M ᴇ 🤝</h2>
-<p align="center">
-  <a href="mailto:shimalakmal12@gmail.com" target="_blank">
-    <img src="./gmail.png" width="50" height="50" alt="Gmail" style="margin: 10px;" />
-  </a>
-  
-  <a href="https://www.instagram.com/shimal_007/" target="_blank">
-    <img src="./instagram.png" width="50" height="50" alt="Instagram" style="margin: 10px;" />
-  </a>
-  
-  <a href="https://www.linkedin.com/in/shimal-akmal-a7b0ba291/" target="_blank">
-    <img src="./linkedin.png" width="50" height="50" alt="LinkedIn" style="margin: 10px;" />
-  </a>
-  
-  <a href="https://leetcode.com/u/shimal07/" target="_blank">
-    <img src="./leetcode.png" width="50" height="50" alt="LeetCode" style="margin: 10px;" />
-  </a>
-</p>
+#### 📜 Certifications & Memberships
+<ul>
+  <li><b>MongoDB Certified Associate Developer</b></li>
+  <li><b>Oracle AI Foundation Associate 2025</b></li>
+  <li><b>Computer Society of India</b> — Executive Member (24-25)</li>
+  <li><b>Robotics Club</b> — Member (24-25)</li>
+  <li><b>Cloud Users Club</b> — Executive Member (25-26)</li>
+</ul>
+
+---
+
+### 📊 GitHub & Coding Stats
+
+<div align="center">
+
+<img src="https://leetcard.jacoblin.cool/Shimal07?theme=dark&font=source_code_pro&ext=heatmap" alt="LeetCode Stats">
+<br><br>
+
+<a href="https://github.com/Shimal007">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shimal007&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" height="192px" alt="GitHub Stats" />
+</a>
+<a href="https://github.com/Shimal007">
+  <img src="https://streak-stats.demolab.com?user=Shimal007&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" height="192px" alt="Streak Stats" />
+</a>
+
+<br><br>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shimal007&bg_color=000000&color=ffffff&line=42d78a&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph">
+
+<br><br>
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=Shimal007&theme=onedark&no-bg=true&no-frame=true" alt="GitHub Profile Trophies" />
+</a>
 
 </div>
-<br/>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Shimal007&label=Profile%20views&color=c56a90&style=flat-square&logo=star" alt="Profile Views" />
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
