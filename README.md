@@ -153,27 +153,20 @@
 ## LeetCode Badges:
 
 <div align="center">
-  <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" width="80"/>
-  <img src="https://leetcode.com/static/images/badges/2024/gif/2024-09.gif" width="80"/>
-  <img src="https://leetcode.com/static/images/badges/2024/gif/2024-10.gif" width="80"/>
-  <img src="https://leetcode.com/static/images/badges/2024/gif/2024-11.gif" width="80"/>
-  <img src="https://leetcode.com/static/images/badges/2024/gif/2024-12.gif" width="80"/>
-  <img src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" width="80"/>
+
+  <img src="https://assets.leetcode.com/static_assets/marketing/365_new.gif" width="100"/>
+  <img src="https://assets.leetcode.com/static_assets/marketing/500_new.gif" width="100"/>
+  <img src="https://assets.leetcode.com/static_assets/others/2026_200.gif" width="100"/>
+  <img src="https://assets.leetcode.com/static_assets/others/100.gif" width="100"/>
+  <img src="https://assets.leetcode.com/static_assets/others/50.gif" width="100"/>
 
   <br><br>
 
-  <img src="https://assets.leetcode.com/static_assets/marketing/lg500.png" width="100"/>
-  <img src="https://assets.leetcode.com/static_assets/marketing/lg365.png" width="100"/>
-  <img src="https://assets.leetcode.com/static_assets/others/200_1080_1080.png" width="100"/>
-  <img src="https://assets.leetcode.com/static_assets/others/100_1080_1080.png" width="100"/>
-  <img src="https://assets.leetcode.com/static_assets/others/50_1080_1080.png" width="100"/>
+  <img src="https://assets.leetcode.com/static_assets/others/25100.gif" width="100"/>
+  <img src="https://assets.leetcode.com/static_assets/others/2550.gif" width="100"/>
+  <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" width="100"/>
+  <img src="https://assets.leetcode.com/static_assets/marketing/6.gif" width="100"/>
 
-  <br><br>
-
-  <img src="https://assets.leetcode.com/static_assets/others/lg25100.png" width="100"/>
-  <img src="https://assets.leetcode.com/static_assets/others/lg2550.png" width="100"/>
-  <img src="https://assets.leetcode.com/static_assets/marketing/2024-50-lg.png" width="100"/>
-  <img src="https://leetcode.com/static/images/badges/dcc-2026-6.png" width="100"/>
 </div>
 
 ---
